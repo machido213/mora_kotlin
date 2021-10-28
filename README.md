@@ -1,1 +1,0 @@
-# mora_kotlin
